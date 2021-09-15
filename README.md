@@ -1,3 +1,6 @@
+Name: Mae Grace Baybay
+Activity Deadline: September 16 2021
+
 # Pokedex-Application
 Pokedex Application created for front-end development using the existing PokeAPI
 
