@@ -1,6 +1,11 @@
 Name: Mae Grace Baybay
 
-Activity Deadline: September 16 2021
+Activity Deadline: September 16 2021 | 3:48 PM
+
+Notes: 
+1. Design file is attached below
+2. Search function is not working
+3. Display function to display Pokemon details wasn't finished 
 
 # Pokedex-Application
 Pokedex Application created for front-end development using the existing PokeAPI
