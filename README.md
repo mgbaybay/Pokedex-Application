@@ -3,12 +3,12 @@ Name: Mae Grace Baybay
 Activity Deadline: September 16 2021 | 3:48 PM
 
 Notes: 
-1. Design file is attached below
+1. Design file is attached below. Based on the initial layout, clicking the card should display pokemon details
 2. Search function is not working
 3. Display function to display Pokemon details wasn't finished 
 
 # Pokedex-Application
-Pokedex Application created for front-end development using the existing PokeAPI
+Pokedex Application created for front-end development using the existing PokeAPI. Pokemon card is sorted according to their type ie fire type is color light red, water type is light blue, grass type is light green, etc
 
 ## Built with
 - HTML5
