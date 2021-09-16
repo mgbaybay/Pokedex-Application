@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokedex Test</title>
+    
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">  
+  </head>
+  <body>
+    <a href="#"><img src="./assets/img/logo.png" class="logo" alt="Pokemon" style="width: 350px; margin: 40px auto 20px;"></a>
+    
+    <div class="search-container">
+      <input type="text" class="form-control" id="search_q" placeholder="Search pokemon by name">
+      <button class="btn-search" id="search-btn">
+        <i class="fa fa-search" aria-hidden="true"></i>
+      </button>
+    </div>
+
+    <div id="poke_container" class="poke-container"></div>
+    
+    <script src="./assets/js/pokemon-data.js"></script>
+  </body>
+</html>
