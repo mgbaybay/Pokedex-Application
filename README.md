@@ -21,20 +21,20 @@ Pokedex Application created for front-end development using the existing PokeAPI
 - Main Page
 - Search 
 - Pokemon List - The pokemon cards are color-coded according to their types. 
-  - fire: '#FDDFDF',
-	- grass: '#DEFDE0',
-	- electric: '#FCF7DE',
-	- water: '#DEF3FD',
-	- ground: '#f4e7da',
-	- rock: '#d5d5d4',
-	- fairy: '#fceaff',
-	- poison: '#98d7a5',
-	- bug: '#f8d5a3',
-	- dragon: '#97b3e6',
-	- psychic: '#eaeda1',
-	- flying: '#F5F5F5',
-	- fighting: '#E6E0D4',
-	- normal: '#F5F5F5'
+  	- Fire: '#FDDFDF',
+	- Grass: '#DEFDE0',
+	- Electric: '#FCF7DE',
+	- Water: '#DEF3FD',
+	- Ground: '#f4E7DA',
+	- Rock: '#D5D5D4',
+	- Fairy: '#FCEAFF',
+	- Poison: '#98D7A5',
+	- Bug: '#F8D5A3',
+	- Dragon: '#97B3E6',
+	- Psychic: '#EAEDA1',
+	- Flying: '#F5F5F5',
+	- Fighting: '#E6E0D4',
+	- Normal: '#F5F5F5'
 
 ## Features
 The web app shows the list of pokemon and their corresponding details.
