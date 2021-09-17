@@ -15,7 +15,7 @@ Pokedex Application created for front-end development using the existing PokeAPI
 - Javascript
 
 ## Design Files
-- Main Page web view - [link](https://www.figma.com/proto/PJ6XuVo3pid9VlIL4FUXtT/Pokedex?page-id=0%3A1&node-id=2%3A2&viewport=241%2C48%2C0.64&scaling=contain&starting-point-node-id=2%3A2)
+- Main Page web view - [link](https://www.figma.com/proto/PJ6XuVo3pid9VlIL4FUXtT/Pokedex?page-id=0%3A1&node-id=32%3A2&viewport=241%2C48%2C0.68&scaling=min-zoom)
 
 ## Sections
 - Main Page
