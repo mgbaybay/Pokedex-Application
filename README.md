@@ -23,8 +23,9 @@ Pokedex Application created for front-end development using the existing PokeAPI
 - Pokemon List
 
 ## Features
-The web app has shows the list of pokemon and their corresponding details.
+The web app shows the list of pokemon and their corresponding details.
 
+#### For future improvements: code refactoring
 #### Created: September 15 2021
 #### Modified: September 17 2021 
 #### Credits:
