@@ -6,21 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pokedex Test</title>
     
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">  
+    <link rel="stylesheet" href="./assets/style/style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
+    <link href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" rel="stylesheet" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
   </head>
   <body>
-    <a href="#"><img src="./assets/img/logo.png" class="logo" alt="Pokemon" style="width: 350px; margin: 40px auto 20px;"></a>
-    
-    <div class="search-container">
-      <input type="text" class="form-control" id="search_q" placeholder="Search pokemon by name">
-      <button class="btn-search" id="search-btn">
-        <i class="fa fa-search" aria-hidden="true"></i>
-      </button>
+    <div class="container">
+      <a href="#"><img src="./assets/img/logo.png" class="logo" alt="Pokemon" style="width: 500px; margin: 40px auto 20px;"></a>
+      <div class="row">
+        <div class="col-md-12 m-4">
+          <button type="button" class="btn btn-rounded btn-secondary mx-2" onclick="window.location.href='index.html'"><i class="fas fa-home"></i> Home</button>
+          <button type="button" class="btn btn-rounded btn-warning mx-2" onclick="window.location.href='search.html'"><i class="fas fa-search"></i> Search Pokemon</button>
+          <button type="button" class="btn btn-rounded btn-primary mx-2" onclick="window.location.href='main.html'"><i class="fas fa-list-alt"></i> Display all Pokemon</button>
+        </div>
+      </div>
     </div>
-
-    <div id="poke_container" class="poke-container"></div>
-    
-    <script src="./assets/js/pokemon-data.js"></script>
   </body>
 </html>
