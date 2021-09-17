@@ -9,6 +9,15 @@ Notes:
 # Pokedex-Application
 Pokedex Application created for front-end development using the existing PokeAPI. 
 
+Home Page
+![Home page](https://github.com/mgbaybay/Pokedex-Application/blob/main/home.jpg)
+
+Search
+![Home page](https://github.com/mgbaybay/Pokedex-Application/blob/main/search.png)
+
+List
+![Home page](https://github.com/mgbaybay/Pokedex-Application/blob/main/list.jpg)
+
 ## Built with
 - HTML5
 - CSS3 (Bootstrap)
