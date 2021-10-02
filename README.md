@@ -1,4 +1,4 @@
-Name: Mae Grace Baybay
+Name: MG Baybay
 
 Activity Deadline: 09/16/2021 | 3:48 PM (Updated: 09/17/2021)
 
